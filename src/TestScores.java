@@ -1,3 +1,9 @@
+/*
+This program gets 10 test scores from a user,
+save each score into an array, and find the highest score,
+lowest score, and compute the average.
+ */
+
 import java.util.Arrays;
 import java.util.Scanner;
 
